@@ -2,7 +2,7 @@
 
 🎓 Estudante de Ciência de Dados e Análise e Desenvolvimento de Sistemas  
 💻 Apaixonado por programação, tecnologia e inovação na área de Treinamento Físico  
-📊 Explorando Python, Java, C, SQL, Estatística e Ciência de Dados
+📊 Explorando Python, Java, C, SQL, Estatística e Ciência de Dados                       
 📚 Currículo acadêmico no [📄 Lattes](https://lattes.cnpq.br/5684649300959949)
 
 ---
