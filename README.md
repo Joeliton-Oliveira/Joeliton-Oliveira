@@ -5,7 +5,6 @@
 📊 Explorando Python, Java, C, SQL, Estatística e Ciência de Dados
 📚 Currículo acadêmico no [📄 Lattes](https://lattes.cnpq.br/5684649300959949)
 
-
 ---
 
 ## 🚀 Linguagens e Tecnologias
